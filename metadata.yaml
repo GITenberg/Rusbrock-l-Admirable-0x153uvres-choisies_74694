@@ -10,6 +10,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Ernest_Hello
     - https://fr.wikipedia.org/wiki/Ernest_Hello
+covers:
+- cover_type: archival
+  image_path: 74694-h/images/cover.jpg
 creator:
   author:
     agent_name: Ruusbroec, Jan van
@@ -32,6 +35,8 @@ creator:
     - https://en.wikipedia.org/wiki/John_of_Ruusbroec
     - https://nl.wikipedia.org/wiki/Jan_van_Ruusbroec
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74694#Rusbrock-l-Admirable-0x153uvres-choisies
 gutenberg_issued: '2024-11-07'
 gutenberg_type: Text
 identifiers:
